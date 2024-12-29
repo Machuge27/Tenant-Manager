@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Machuge27/Tenant-Manager/static/css/main.e1ed3bf9.css",
+    "main.js": "/Machuge27/Tenant-Manager/static/js/main.c05b5e8d.js",
+    "static/js/453.0fff2ecc.chunk.js": "/Machuge27/Tenant-Manager/static/js/453.0fff2ecc.chunk.js",
+    "static/media/header-bg.jpg": "/Machuge27/Tenant-Manager/static/media/header-bg.6126fe1f0dd8432036e3.jpg",
+    "static/media/Logo.jpg": "/Machuge27/Tenant-Manager/static/media/Logo.5eadf18d8ddb716e9b59.jpg",
+    "index.html": "/Machuge27/Tenant-Manager/index.html",
+    "main.e1ed3bf9.css.map": "/Machuge27/Tenant-Manager/static/css/main.e1ed3bf9.css.map",
+    "main.c05b5e8d.js.map": "/Machuge27/Tenant-Manager/static/js/main.c05b5e8d.js.map",
+    "453.0fff2ecc.chunk.js.map": "/Machuge27/Tenant-Manager/static/js/453.0fff2ecc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1ed3bf9.css",
+    "static/js/main.c05b5e8d.js"
+  ]
+}
